@@ -1,4 +1,4 @@
-# ReduxApp
+# ReactApp
 
 ```
 > npm install
