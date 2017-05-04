@@ -20,7 +20,7 @@ class App extends Component {
       term: '',
     };
 
-    this.videoSearch('im');
+    this.videoSearch('');
   }
 
   videoSearch (term) {

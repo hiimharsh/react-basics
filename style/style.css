@@ -5,6 +5,8 @@
 
 .search-bar input {
   width: 75%;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .video-item img {
